@@ -1,1 +1,0 @@
-export { DisclaimerModal } from './DisclaimerModal'
