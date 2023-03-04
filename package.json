@@ -78,7 +78,7 @@
     "inter-ui": "^3.13.1",
     "jazzicon": "^1.5.0",
     "jsbi": "^3.1.4",
-    "lightweight-charts": "^3.3.0",
+    "lightweight-charts": "^4.0.0",
     "lodash.flatmap": "^4.5.0",
     "luxon": "^1.28.1",
     "multicodec": "^3.0.1",
