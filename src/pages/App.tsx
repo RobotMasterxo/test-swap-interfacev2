@@ -133,7 +133,7 @@ export default function App() {
           </BodyWrapper>
         </AppWrapper>
       </Suspense>
-        <div>
+        {/* <div>
           <Snowfall
           style={{
             width: '100vw',
@@ -145,7 +145,7 @@ export default function App() {
           speed={[0.5, 2.5]}
           wind={[-0.5, 2]}
           />
-        </div>
+        </div> */}
     </ErrorBoundary>
     
   )
