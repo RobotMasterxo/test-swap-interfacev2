@@ -1,0 +1,49 @@
+{
+    "name": "My Token List",
+    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+    "keywords": [
+      "audited",
+      "verified",
+      "special tokens"
+    ],
+    "tags": {
+      "native": {
+        "name": "Native",
+        "description": "Native token of the chain"
+      },
+      "testnet": {
+        "name": "Testnet Token",
+        "description": "Testnet tokens"
+      }
+    },
+    "timestamp": "2020-06-12T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 7668378,
+        "address": "0x74a84ACFFb40c78c4B471d6C531B3532f542984b",
+        "symbol": "WQOM",
+        "name": "Wrapped QOM",
+        "decimals": 18,
+        "logoURI": "https://pbs.twimg.com/profile_images/1580732227427745794/RsQNAEaS_400x400.jpg",
+        "tags": [
+          "native"
+        ]
+      },
+      {
+        "chainId": 7668378,
+        "address": "0x1462A3C67dB4F92B38d7D61c30deF73a517a47AF",
+        "symbol": "RCT",
+        "name": "Random Token",
+        "decimals": 18,
+        "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+        "tags": [
+          "testnet"
+        ]
+      }
+    ],
+    "version": {
+      "major": 3,
+      "minor": 0,
+      "patch": 0
+    }
+  }
