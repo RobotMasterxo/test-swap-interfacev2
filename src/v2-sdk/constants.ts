@@ -1,6 +1,6 @@
 import JSBI from 'jsbi'
 
-export const INIT_CODE_HASH = '0x0fa47c0341dc8bbca056f68d43a64992ccc92c11c53118f52208e1ebadd83ba7'
+export const INIT_CODE_HASH = '0x3b97379a5e237fe8954218559231939f3d3f6f005efb2aa1a3df9d0c434dd6d0'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
