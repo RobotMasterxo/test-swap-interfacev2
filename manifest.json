@@ -4,13 +4,13 @@
   "homepage_url": "https://localhost",
   "icons": [
     {
-      "src": "./images/192x192_App_Icon.png",
+      "src": "./qom-logo",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./images/512x512_App_Icon.png",
+      "src": "./qom-logo",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
