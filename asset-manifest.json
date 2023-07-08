@@ -1,20 +1,20 @@
 {
   "files": {
-    "static/js/0.1e765586.chunk.js": "/test-swap-interfacev2/static/js/0.1e765586.chunk.js",
-    "static/js/0.1e765586.chunk.js.map": "/test-swap-interfacev2/static/js/0.1e765586.chunk.js.map",
+    "static/js/0.95b59ea9.chunk.js": "/test-swap-interfacev2/static/js/0.95b59ea9.chunk.js",
+    "static/js/0.95b59ea9.chunk.js.map": "/test-swap-interfacev2/static/js/0.95b59ea9.chunk.js.map",
     "static/js/1.3e573c84.chunk.js": "/test-swap-interfacev2/static/js/1.3e573c84.chunk.js",
     "static/js/1.3e573c84.chunk.js.map": "/test-swap-interfacev2/static/js/1.3e573c84.chunk.js.map",
-    "main.js": "/test-swap-interfacev2/static/js/main.cdb9cc44.chunk.js",
-    "main.js.map": "/test-swap-interfacev2/static/js/main.cdb9cc44.chunk.js.map",
-    "runtime-main.js": "/test-swap-interfacev2/static/js/runtime-main.b16e8f53.js",
-    "runtime-main.js.map": "/test-swap-interfacev2/static/js/runtime-main.b16e8f53.js.map",
+    "main.js": "/test-swap-interfacev2/static/js/main.46bdf472.chunk.js",
+    "main.js.map": "/test-swap-interfacev2/static/js/main.46bdf472.chunk.js.map",
+    "runtime-main.js": "/test-swap-interfacev2/static/js/runtime-main.c3024efb.js",
+    "runtime-main.js.map": "/test-swap-interfacev2/static/js/runtime-main.c3024efb.js.map",
     "static/css/4.b0a2b14c.chunk.css": "/test-swap-interfacev2/static/css/4.b0a2b14c.chunk.css",
-    "static/js/4.0310846a.chunk.js": "/test-swap-interfacev2/static/js/4.0310846a.chunk.js",
-    "static/js/4.0310846a.chunk.js.map": "/test-swap-interfacev2/static/js/4.0310846a.chunk.js.map",
+    "static/js/4.6c64b17f.chunk.js": "/test-swap-interfacev2/static/js/4.6c64b17f.chunk.js",
+    "static/js/4.6c64b17f.chunk.js.map": "/test-swap-interfacev2/static/js/4.6c64b17f.chunk.js.map",
     "static/js/5.8c56878c.chunk.js": "/test-swap-interfacev2/static/js/5.8c56878c.chunk.js",
     "static/js/5.8c56878c.chunk.js.map": "/test-swap-interfacev2/static/js/5.8c56878c.chunk.js.map",
-    "static/js/6.a6144ab0.chunk.js": "/test-swap-interfacev2/static/js/6.a6144ab0.chunk.js",
-    "static/js/6.a6144ab0.chunk.js.map": "/test-swap-interfacev2/static/js/6.a6144ab0.chunk.js.map",
+    "static/js/6.3cb72118.chunk.js": "/test-swap-interfacev2/static/js/6.3cb72118.chunk.js",
+    "static/js/6.3cb72118.chunk.js.map": "/test-swap-interfacev2/static/js/6.3cb72118.chunk.js.map",
     "static/js/7.d80b4750.chunk.js": "/test-swap-interfacev2/static/js/7.d80b4750.chunk.js",
     "static/js/7.d80b4750.chunk.js.map": "/test-swap-interfacev2/static/js/7.d80b4750.chunk.js.map",
     "static/js/8.91d2196b.chunk.js": "/test-swap-interfacev2/static/js/8.91d2196b.chunk.js",
@@ -25,10 +25,10 @@
     "service-worker.js": "/test-swap-interfacev2/service-worker.js",
     "service-worker.js.map": "/test-swap-interfacev2/service-worker.js.map",
     "static/css/4.b0a2b14c.chunk.css.map": "/test-swap-interfacev2/static/css/4.b0a2b14c.chunk.css.map",
-    "static/js/0.1e765586.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/0.1e765586.chunk.js.LICENSE.txt",
-    "static/js/4.0310846a.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/4.0310846a.chunk.js.LICENSE.txt",
+    "static/js/0.95b59ea9.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/0.95b59ea9.chunk.js.LICENSE.txt",
+    "static/js/4.6c64b17f.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/4.6c64b17f.chunk.js.LICENSE.txt",
     "static/js/5.8c56878c.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/5.8c56878c.chunk.js.LICENSE.txt",
-    "static/js/6.a6144ab0.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/6.a6144ab0.chunk.js.LICENSE.txt",
+    "static/js/6.3cb72118.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/6.3cb72118.chunk.js.LICENSE.txt",
     "static/js/9.dab36d94.chunk.js.LICENSE.txt": "/test-swap-interfacev2/static/js/9.dab36d94.chunk.js.LICENSE.txt",
     "static/media/inter.css": "/test-swap-interfacev2/static/media/Inter.var.9df5db38.woff2",
     "static/media/arrow-right.956d575c.svg": "/test-swap-interfacev2/static/media/arrow-right.956d575c.svg",
@@ -54,9 +54,9 @@
     "static/media/x.33076876.svg": "/test-swap-interfacev2/static/media/x.33076876.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b16e8f53.js",
+    "static/js/runtime-main.c3024efb.js",
     "static/css/4.b0a2b14c.chunk.css",
-    "static/js/4.0310846a.chunk.js",
-    "static/js/main.cdb9cc44.chunk.js"
+    "static/js/4.6c64b17f.chunk.js",
+    "static/js/main.46bdf472.chunk.js"
   ]
 }
